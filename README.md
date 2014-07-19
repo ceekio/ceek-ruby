@@ -1,6 +1,9 @@
-# Ceek
+# ceek
 
-TODO: Write a gem description
+[![Gem Version](https://badge.fury.io/rb/ceek.svg)](http://badge.fury.io/rb/ceek)
+[![Build Status](https://secure.travis-ci.org/ceekio/ceek-ruby.svg?branch=master)](https://travis-ci.org/ceekio/ceek-ruby)
+
+ceek ruby client
 
 ## Installation
 
